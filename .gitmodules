@@ -1,0 +1,12 @@
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/josephhutch/aether
+[submodule "themes/hermit"]
+	path = themes/hermit
+	url = https://github.com/Track3/hermit
